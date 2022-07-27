@@ -2,6 +2,29 @@
   "dependencies": {
     "console.table": "^0.10.0",
     "inquirer": "^9.0.2",
-    "mysql2": "^2.3.3"
-  }
+    "mysql2": "^2.3.3",
+    "node-fetch": "^2.6.6"
+  },
+  "name": "find-my-employee",
+  "description": "manages a comapny database",
+  "version": "1.0.0",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "jest",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fheezy/Find-My-Employee.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fheezy/Find-My-Employee/issues"
+  },
+  "homepage": "https://github.com/fheezy/Find-My-Employee#readme"
 }
