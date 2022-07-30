@@ -1,3 +1,3 @@
-DROP DATABASE IF EXISTS Find_My_Employee_db;
-CREATE Find_My_Employee_db;
-USE Find_My_Employee_db;
+DROP DATABASE IF EXISTS find_my_employee_db;
+CREATE find_my_employee_db;
+USE find_my_employee_db;
