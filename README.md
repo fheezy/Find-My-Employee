@@ -32,6 +32,8 @@ SO THAT I can organize and plan my business
 
 ## Mock-up
 
+![mockup](./images/mock-up.png)
+
 ## Technologies
 
 | ID # | Technologies |
